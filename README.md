@@ -80,11 +80,3 @@ For more information on how to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.
 ## 🔐 License
 
 This project is licensed under the [MIT License](./LICENSE).
-
-## 📬 Contact
-
-If you have any questions or suggestions, feel free to reach out to us:
-
-- **Email**: [your.email@example.com]
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
